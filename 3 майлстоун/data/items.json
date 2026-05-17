@@ -1,0 +1,44 @@
+[
+    {
+        "name": "Ржавый меч",
+        "type": "weapon",
+        "modifier": 2,
+        "description": "Старый, затупленный меч (+2 к урону)"
+    },
+    {
+        "name": "Стальной меч",
+        "type": "weapon",
+        "modifier": 5,
+        "description": "Добротный стальной меч (+5 к урону)"
+    },
+    {
+        "name": "Двуручный меч",
+        "type": "weapon",
+        "modifier": 8,
+        "description": "Тяжёлый двуручный меч (+8 к урону)"
+    },
+    {
+        "name": "Малое зелье здоровья",
+        "type": "consumable",
+        "modifier": 20,
+        "description": "Восстанавливает 20 HP"
+    },
+    {
+        "name": "Зелье здоровья",
+        "type": "consumable",
+        "modifier": 35,
+        "description": "Восстанавливает 35 HP"
+    },
+    {
+        "name": "Большое зелье здоровья",
+        "type": "consumable",
+        "modifier": 50,
+        "description": "Восстанавливает 50 HP"
+    },
+    {
+        "name": "Корона",
+        "type": "key",
+        "modifier": 0,
+        "description": "Проклятая корона древнего короля"
+    }
+]
